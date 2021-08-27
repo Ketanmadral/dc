@@ -1,0 +1,46 @@
+input[type="button"]{
+        width: 50px;
+        height:30px;
+        margin: 4px;
+        background-color: black;
+        color: white;
+        border: 2px solid black;
+        border-radius: 3px;
+        
+      }
+      input[type="text"]{
+        padding: 10px 30px;
+        margin-left: 5px;
+        background-color: skyblue;
+        border: 2px soild skyblue;
+        border-radius: 3px;
+        
+      }
+      input[value="+"]{
+        background-color:orange;
+        border: 2px solid orange;
+      }
+      input[value="-"]{
+         background-color:purple;
+        border: 2px solid purple;
+      }
+      input[value="*"]{
+      background-color:blue;
+      border: 2px solid blue;
+      }
+      input[value="/"]{
+      background-color:green;
+      border: 2px solid green;
+      }
+      input[value="="]{
+        background-color:red;
+        border: 2px solid red;
+      }
+      input[value="C"]{
+        background-color:grey ;
+        border: 2px solid grey;
+      }
+      input[value="."]{
+        background-color:brown ;
+        border: 2px solid brown;
+      }
